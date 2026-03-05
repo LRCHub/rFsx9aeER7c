@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Remember Me",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2026-03-05T07:59:17.332760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/01_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/02_(Remember_Me)_I'm_the_One_Who_Loves_You_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Remember Me (Before You)",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Remember_Me_(Before_You)_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Please Remember Me",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/04_Please_Remember_Me_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Please Remember Me",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/05_Please_Remember_Me_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/06_(Remember_Me)_I'm_the_One_Who_Loves_You_Dean_Martin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "Órla Fallon",
+      "has_synced": false,
+      "path": "select/07_Remember_Me_Órla_Fallon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/08_Remember_Me_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Feel Love / Johnny Remember Me",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/09_I_Feel_Love___Johnny_Remember_Me_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Feel Love - Johnny Remember Me",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/10_I_Feel_Love_-_Johnny_Remember_Me_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/11_Remember_Me_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/12_Remember_Me_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/13_Remember_Me_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Remember Me (Abstract / Reality)",
+      "artist": "Cunninlynguists",
+      "has_synced": true,
+      "path": "select/14_Remember_Me_(Abstract___Reality)_Cunninlynguists.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Remember Me",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/15_Remember_Me_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Remember Me?",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/16_Remember_Me_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Remember Me, I'm Gone",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/17_Remember_Me,_I'm_Gone_Motörhead.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember Me",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_Me_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
